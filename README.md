@@ -1,4 +1,6 @@
-# Building RESTful APIs with Express
+# 0088_lsw11d_node_express_lab
+
+## Building RESTful APIs with Express
 
 ## Topics:
 
